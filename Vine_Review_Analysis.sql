@@ -35,7 +35,7 @@ SELECT * FROM no_paid_program_table;
 --making the table to extract the count of star_rating
 select review_id,star_rating,total_votes, helpful_votes, vine,verified_purchase
 INTO getting_five_star_table
-FROM more_positive_review_table
+FROM vine_table
 WHERE star_rating = 5
 order by total_votes;
 --check if all the data is there
@@ -55,3 +55,20 @@ FROM vine_table
 group by vine;
 --check if all data went through
 SELECT * FROM total_vote_count_table;
+--the table comparing 5 star reviews
+SELECT count(total_votes),vine, star_rating
+INTO Compare_star_rating_to_non_vine_reviews
+From vine_table
+where vine = 'N'
+group by vine, star_rating;
+
+SELECT count(total_votes),vine, star_rating
+INTO Compare_star_rating_vine_reviews
+From vine_table
+where vine = 'Y'
+group by vine, star_rating;
+--check if all data went through
+select * From Compare_star_rating_to_non_vine_reviews;
+select * from Compare_star_rating_vine_reviews;
+
+
