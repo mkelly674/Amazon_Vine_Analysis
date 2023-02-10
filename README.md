@@ -14,3 +14,6 @@ There is also a huge difference between the 5 star reviews with the total for no
 ![Pie_graph_of_non_vine_reviews](https://user-images.githubusercontent.com/114030563/218206126-e39af4cd-bca9-4181-ba7e-b59864112f97.png)
 
 - The amount of total vines that were 5 star reviews were 1,607 and the total amount of vine reviews were 4,291. After calculating that out, the percentage is just 37.4% of total reviews that give it 5 stars. This is in contrast to the non-Vine Paid program of 1,025,317 reviews of 5 stars out of 1,781,706. That percentage comes out to 57.5% of total reviews that were 5 stars. 
+
+## Summary
+There seems to be no positivity bias in this Vine reviews. In fact, paying seems to get less 5 stars than the non paying program. The contrast of 37.4% of Vines getting 5 star reviews and 57.5%  of non-Vine reviews gives clarity to the previous statement. I would like to see the ratio of negative reviews as well to confirm that the reviewers might go in the middle of the road to both protect their reputation and not anger the people paying.
