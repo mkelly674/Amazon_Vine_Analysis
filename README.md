@@ -13,4 +13,4 @@ The Amazon reviews that I was looking at were the video game veriety. Here are s
 There is also a huge difference between the 5 star reviews with the total for non-Vine program. There is 1,025,317 five star reviews and 1,781,706 total reviews of non-Vine program. Here is a graph of that:
 ![Pie_graph_of_non_vine_reviews](https://user-images.githubusercontent.com/114030563/218206126-e39af4cd-bca9-4181-ba7e-b59864112f97.png)
 
-- The amount of total vines that were 5 star reviews were 1,607 and the total amount of vine reviews were 4,291. After calculating that out
+- The amount of total vines that were 5 star reviews were 1,607 and the total amount of vine reviews were 4,291. After calculating that out, the percentage is just 37.4% of total reviews that give it 5 stars. This is in contrast to the non-Vine Paid program of 1,025,317 reviews of 5 stars out of 1,781,706. That percentage comes out to 57.5% of total reviews that were 5 stars. 
